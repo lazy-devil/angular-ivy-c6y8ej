@@ -11,7 +11,7 @@ import {
   styleUrls: ["./app.component.css"]
 })
 export class AppComponent {
-  title = "Drag & Drop in Angular 7";
+  title = "Drag & Drop in Angular 10";
 
   todos = [
     {
